@@ -2,7 +2,7 @@
 
 ## Project Setup
 ```
-Project descriptionProject Type: Academic project.
+Category : Academic project.
 Language: Java
 Platform: Android
 IDE: Android Studio
