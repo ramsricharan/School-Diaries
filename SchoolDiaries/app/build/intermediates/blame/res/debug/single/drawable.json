@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_menu_header_bg.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\nav_menu_header_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_activity_plain.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_activity_plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_food_plain.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_food_plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_person_add_white_24dp.png",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_person_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_photo.JPG",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_photo.JPG"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_land.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\bg_land.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_note_plain.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_note_plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_med.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_med.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_background.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\status_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank_profile_pic.png",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\blank_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_med_plain.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_med_plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_note.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_note.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\079a016778a531b675081a57a2d0652ac491a380\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\applogotint.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\applogotint.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_activity.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_activity.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\079a016778a531b675081a57a2d0652ac491a380\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_nap_plain.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_nap_plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\x.png",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\079a016778a531b675081a57a2d0652ac491a380\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_effect.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank_image.png",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\blank_image.png"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mytint.png",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\mytint.png"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\079a016778a531b675081a57a2d0652ac491a380\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_nap.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_nap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check.PNG",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\check.PNG"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\079a016778a531b675081a57a2d0652ac491a380\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_bottom.PNG",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\check_bottom.PNG"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_photo_plain.JPG",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_photo_plain.JPG"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_food.jpg",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\drawable\\icon_food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\fe0dfb9501914f2b6076cdb79f5b068f25ef6b8d\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    }
+]

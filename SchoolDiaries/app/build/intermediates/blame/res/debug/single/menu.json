@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\child_feed_menu_parent.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\child_feed_menu_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\parent_main.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\parent_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\child_feed_menu.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\child_feed_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity__teacher_main_drawer.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\activity__teacher_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity__teacher_main.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\activity__teacher_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_parent_main_drawer.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\activity_parent_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu\\empty_menu.xml",
+        "source": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\src\\main\\res\\menu\\empty_menu.xml"
+    }
+]

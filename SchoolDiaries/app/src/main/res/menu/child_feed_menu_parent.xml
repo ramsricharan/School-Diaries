@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn_child_profile_edit"
+        android:title="Edit Profile"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/btn_child_shortcut"
+        android:title="Create Shortcut"
+        app:showAsAction="never"/>
+
+    <item android:title="Share Child Code"
+        android:id="@+id/btn_share_child_code"/>
+
+</menu>

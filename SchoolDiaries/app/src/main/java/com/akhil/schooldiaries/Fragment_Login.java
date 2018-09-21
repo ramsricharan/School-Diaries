@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
@@ -41,6 +42,10 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
 
     private RadioButton Radio_Teacher;
     private RadioButton Radio_Parent;
+    private CheckBox rememberBox;
+    private PrefManager pref;
+
+    private String email,pass,type;
 
 
     public Fragment_Login() {
@@ -53,11 +58,10 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_login, container, false);
-
-        progressDialog = new ProgressDialog(getContext());
+        pref = new PrefManager(getActivity());
+        progressDialog = new ProgressDialog(getActivity());
         firebaseAuth = FirebaseAuth.getInstance();
         databaseReference = FirebaseDatabase.getInstance().getReference();
-
 
         userid = (EditText) view.findViewById(R.id.UsernameField);
         password = (EditText) view.findViewById(R.id.PasswordField);
@@ -67,21 +71,30 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
 
         Radio_Teacher = (RadioButton) view.findViewById(R.id.Radio_Teacher);
         Radio_Parent = (RadioButton) view.findViewById(R.id.Radio_Parent);
+        rememberBox = (CheckBox) view.findViewById(R.id.remember_ckbox);
 
+        if(pref.isDataSet()){LoginPressed(view);}
         return view;
     }
 
 
     public void LoginPressed(View view) {
-        final String email = userid.getText().toString();
-        String pass = password.getText().toString();
+
+        if(pref.isDataSet()){
+            String[] loginData = pref.getLoginData();
+            email = loginData[0];
+            pass = loginData[1];
+        } else {
+            email = userid.getText().toString();
+            pass = password.getText().toString();
+        }
 
         if (email.isEmpty()) {
-            Toast.makeText(getContext(), "User Id cannot be empty!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "User Id cannot be empty!", Toast.LENGTH_SHORT).show();
             return;
         }
         if (pass.isEmpty()) {
-            Toast.makeText(getContext(), "Password cannot be empty!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "Password cannot be empty!", Toast.LENGTH_SHORT).show();
             return;
         }
 
@@ -100,7 +113,8 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
                 }
                 else
                 {
-                    Toast.makeText(getContext(), "Loggin failed", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getActivity(), "Loggin failed", Toast.LENGTH_SHORT).show();
+                    pref.resetData();
                 }
             }
         });
@@ -110,15 +124,23 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
     private void checkUserType(String uid)
     {
         final boolean result = false;
+        if(pref.isDataSet()){
+            String[] loginData = pref.getLoginData();
+            type = loginData[2];
+            if(type.equalsIgnoreCase("staff")) {Radio_Teacher.setChecked(true);}
+            else if(type.equalsIgnoreCase("parents")) {Radio_Parent.setChecked(true);}
+        }
 
         if(Radio_Teacher.isChecked())
         {
-            Intent i = new Intent(getActivity(), ParentMain.class);
+            type = "staff";
+            Intent i = new Intent(getActivity(), Activity_TeacherMain.class);
             LoginAs("staff", uid, i);
         }
 
         else if (Radio_Parent.isChecked())
         {
+            type = "parents";
             Intent i = new Intent(getActivity(), ParentMain.class);
             LoginAs("parents", uid, i);
         }
@@ -132,13 +154,17 @@ public class Fragment_Login extends Fragment  implements View.OnClickListener{
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.hasChild(uid)) {
+                    if(!pref.isDataSet() && rememberBox.isChecked()){
+                        pref.setLoginData(email,pass,type);
+                    }
                     startActivity(i);
                     getActivity().finish();
                 }
                 else
                 {
-                    Toast.makeText(getContext(), "You do not have access to " + usertype + " account", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getActivity(), "You do not have access to " + usertype + " account", Toast.LENGTH_LONG).show();
                     FirebaseAuth.getInstance().signOut();
+                    pref.resetData();
                 }
             }
             @Override

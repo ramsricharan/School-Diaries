@@ -86,8 +86,9 @@ public class Fragment_CreateAccount extends Fragment implements View.OnClickList
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_create_account, container, false);
 
-        progressDialog = new ProgressDialog(getContext());
+        progressDialog = new ProgressDialog(getActivity());
         firebaseAuth = FirebaseAuth.getInstance();
+        firebaseAuth.getInstance().signOut();
 
         databaseReference = FirebaseDatabase.getInstance().getReference();
 
@@ -114,27 +115,27 @@ public class Fragment_CreateAccount extends Fragment implements View.OnClickList
         String new_password = newpassword.getText().toString();
 
         if (new_name.isEmpty()) {
-            Toast.makeText(getContext(), "User Name cannot be empty!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "User Name cannot be empty!", Toast.LENGTH_SHORT).show();
             return;
         }
 
         if (new_email.isEmpty()) {
-            Toast.makeText(getContext(), "Email Id cannot be empty!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "Email Id cannot be empty!", Toast.LENGTH_SHORT).show();
             return;
         }
         if(!new_email.contains("@sd.com"))
         {
-            Toast.makeText(getContext(), "Username must be a valid rapps mail address. Make sure it ends with '@sd.com'", Toast.LENGTH_LONG).show();
+            Toast.makeText(getActivity(), "Username must be a valid sd mail address. Make sure it ends with '@sd.com'", Toast.LENGTH_LONG).show();
             return;
         }
         if (new_password.isEmpty()) {
-            Toast.makeText(getContext(), "Password cannot be empty!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), "Password cannot be empty!", Toast.LENGTH_SHORT).show();
             return;
         }
 
         if(new_password.length() <  8)
         {
-            Toast.makeText(getContext(), "Too short! Password must be atleast 8 characters long.", Toast.LENGTH_LONG).show();
+            Toast.makeText(getActivity(), "Too short! Password must be atleast 8 characters long.", Toast.LENGTH_LONG).show();
             newpassword.setText("");
             return;
         }
@@ -151,7 +152,7 @@ public class Fragment_CreateAccount extends Fragment implements View.OnClickList
                 if(task.isSuccessful())
                 {
                     String uid = firebaseAuth.getCurrentUser().getUid();
-                    Toast.makeText(getContext(), "Your new account has been created!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getActivity(), "Your new account has been created!", Toast.LENGTH_SHORT).show();
                     AddUserName(new_name, uid);
                     FirebaseAuth.getInstance().signOut();
                     Intent i = new Intent(getActivity(), MainActivity.class);
@@ -160,7 +161,7 @@ public class Fragment_CreateAccount extends Fragment implements View.OnClickList
                 }
                 else
                 {
-                    Toast.makeText(getContext(), "Something went wrong! Your registration failed.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getActivity(), "Something went wrong! Your registration failed.", Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -171,11 +172,13 @@ public class Fragment_CreateAccount extends Fragment implements View.OnClickList
         if(Radio_Teacher.isChecked())
         {
             databaseReference.child("staff").child(uid).child("name").setValue(username);
+            databaseReference.child("staff").child(uid).child("class_ids").setValue("0");
         }
 
         else if (Radio_Parent.isChecked())
         {
             databaseReference.child("parents").child(uid).child("name").setValue(username);
+            databaseReference.child("parents").child(uid).child("children").setValue("");
         }
     }
 

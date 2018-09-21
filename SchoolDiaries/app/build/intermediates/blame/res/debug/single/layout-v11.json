@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ramsr\\Desktop\\SchoolDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ramsr\\.android\\build-cache\\5c00caf51c417db9b459c3d6eb7a4f210f93b33e\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]
